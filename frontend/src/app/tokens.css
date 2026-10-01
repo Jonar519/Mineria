@@ -1,0 +1,20 @@
+/* Generated from DESIGN.md by `npm run design:tokens`. Do not edit by hand. */
+@theme {
+  --color-primary: #f8fafc;
+  --color-on-primary: #0f172a;
+  --color-secondary: #94a3b8;
+  --color-tertiary: #8b5cf6;
+  --color-on-tertiary: #ffffff;
+  --color-tertiary-container: #7c3aed;
+  --color-neutral: #020617;
+  --color-surface: #1e293b;
+  --color-outline: #475569;
+  --color-mark: #06b6d4;
+  --color-positive: #10b981;
+  --color-mora: #f43f5e;
+  --color-error: #ef4444;
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 14px;
+  --radius-full: 9999px;
+}
